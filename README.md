@@ -37,6 +37,8 @@
 ### Overview
 In today’s digital landscape, cybersecurity is of paramount importance. Organizations must constantly analyze and improve their security infrastructure to defend against increasingly sophisticated cyber threats. This article provides a detailed overview of a comprehensive security infrastructure, encompassing malware analysis, vulnerability management, threat detection, and threat intelligence.
 
+![HLD](./demo-lab-setup.jpg)
+
 ### Importance of Security Infrastructure
 A robust security infrastructure is essential for identifying vulnerabilities, detecting and responding to threats, and generating actionable intelligence. This ensures that organizations can preemptively address potential security issues and respond effectively to incidents.
 
